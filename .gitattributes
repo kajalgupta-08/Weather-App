@@ -1,0 +1,4 @@
+android/** linguist-vendored
+ios/** linguist-vendored
+test/** linguist-vendored
+lib/** linguist-language=Dart
